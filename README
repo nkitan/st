@@ -1,13 +1,11 @@
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
-this is a personal build of st with support for pywal and emojis
 
 
 Requirements
 ------------
-In order to build st you need the Xlib header files and pywal installed and configured.
-you will also need libXft patched with the bgra patch for emoji support otherwise ST will crash.
+In order to build st you need the Xlib header files.
 
 
 Installation
